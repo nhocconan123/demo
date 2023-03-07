@@ -5,8 +5,7 @@ public class Account {
     private String name;
     private int Balance=0;
 
-    public Account() {
-    }
+
     public Account(String id, String name) {
         this.id = id;
         this.name = name;
